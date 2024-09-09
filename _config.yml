@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "images/avator.jpg"
   name             : "Xiaochen Wang"
-  pronouns         : # example: "he/him/his"  
+  pronouns         : "he/him/his"  
   bio              : "PhD Candidate"
   location         : "State College, PA"
   employer         : "Pennsylvania State University"
