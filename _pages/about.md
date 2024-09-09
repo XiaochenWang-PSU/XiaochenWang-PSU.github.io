@@ -1,3 +1,5 @@
+<!--
+
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -44,6 +46,17 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
+
+
+
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
+
+About Me
+======
+My name is Xiaochen Wang. I am now pursuing my PhD degree in Informatics at Pennsylvania State University under the supervision of Dr. Fenglong Ma. Before that, I received my Master Degree in Information Science at University of North Carolina at Chapel Hill, supervised by Dr. Yue Wang, and my Bachelor Degree in Automation at Central South University, China, supervised by Dr. Fan Guo.
+
