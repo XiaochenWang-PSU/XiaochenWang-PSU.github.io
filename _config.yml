@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xiaochen Wang"
 title_separator          : "-"
 name                     : &name "Xiaochen Wang"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiaochen Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him/his"  
+  bio              : "PhD Candidate in Informatics"
   location         : "University Park, PA"
   employer         : "The Pennsylvania State University"
   uri              : # URL
