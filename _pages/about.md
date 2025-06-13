@@ -46,17 +46,11 @@ May 2022 – Aug. 2022
 
 
 ---
+## Selected Publications
 
-## Publications
+### 📄 Peer-reviewed Papers
 
-### 🧠 AAAI'25 Tutorial  
-**Multimodal Artificial Intelligence in Healthcare**  
-Jiaqi Wang, **Xiaochen Wang**, Yuan Zhong, Ziyi Yin, Aofei Chang, Cao Xiao, Fenglong Ma  
-*AAAI 2025 Tutorial and Lab Forum*
 
----
-
-### 📚 Peer-reviewed Conference Papers
 
 **MedDiTPro: A Prompt-Guided Diffusion Transformer for Multimodal Longitudinal Medical Data Synthesis**  
 Yuan Zhong, **Xiaochen Wang**, Jiaqi Wang, Xiaokun Zhang, Fenglong Ma  
@@ -79,46 +73,43 @@ Jiaqi Wang\*, **Xiaochen Wang\***, Lingjuan Lyu, Jinghui Chen, Fenglong Ma
 *ACL'24*
 
 **Mitigating Pooling Bias in E-commerce Search via False Negative Estimation**  
-**Xiaochen Wang**, Xiao Xiao, Ruhan Zhang, Xuan Zhang, et al.  
+**Xiaochen Wang**, Xiao Xiao, Ruhan Zhang, Xuan Zhang, Taesik Na, Tejaswi Tenneti, Haixun Wang, Fenglong Ma  
 *KDD'24*
 
-**Disentangling ID and Modality Effects for Session-based Recommendation**  
-Xiaokun Zhang, Bo Xu, Zhaochun Ren, **Xiaochen Wang**, et al.  
-*SIGIR'24*
+**Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models**  
+Yuan Zhong, **Xiaochen Wang**, Jiaqi Wang, Xiaokun Zhang, et al.  
+*KDD'24*
+
 
 **Hierarchical Pretraining on Multimodal Electronic Health Records**  
-**Xiaochen Wang**, Junyu Luo, Jiaqi Wang, et al.  
+**Xiaochen Wang**, Junyu Luo, Jiaqi Wang, Ziyi Yin, Suhan Cui, Yuan Zhong, et al.  
 *EMNLP'23*
 
-**CoRelation: Boosting Automatic ICD Coding Through Contextualized Code Relation Learning**  
-Junyu Luo, **Xiaochen Wang**, Jiaqi Wang, et al.  
-*COLING'24*
+**pADR: Towards Personalized Adverse Drug Reaction Prediction**  
+Junyu Luo, Cheng Qian, **Xiaochen Wang**, Lucas Glass, Fenglong Ma  
+*CIKM'23*
 
 **Sentence-Level Resampling for Named Entity Recognition**  
 **Xiaochen Wang**, Yue Wang  
 *NAACL'22*
 
-**Extreme Systematic Reviews: A Large Literature Screening Dataset to Support Environmental Policymaking**  
-Jingwen Hou\*, **Xiaochen Wang\***, et al.  
+**Enabling Scientific Reproducibility through FAIR Data Management**  
+**Xiaochen Wang**, Yue Wang, José-Luis Ambite, Abhishek Appaji, et al.  
+*AMIA'22*
+
+**Extreme Systematic Reviews: A Large Literature Screening Dataset**  
+Jingwen Hou\*, **Xiaochen Wang\***, Jean-Jacques Dubois, R. Byron Rice, Amanda Haddock, Yue Wang  
 *CIKM'22*
 
 ---
 
-### 📖 Journal Papers
-
-**NeuroBridge: A Prototype Platform for Discovery of The Long-Tail Neuroimaging Data Authors**  
-Lei Wang, Jose Luis Ambite, Abhishek M. Appaji, **Xiaochen Wang**, Yue Wang, et al.  
-*Frontiers in Neuroinformatics, 2023*
-
----
-
-### 📝 Preprints & Submissions
+### 📝 Preprints
 
 **MedMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**  
-**Xiaochen Wang**, Yuan Zhong, Lingwei Zhang, et al.  
+**Xiaochen Wang**, Yuan Zhong, Lingwei Zhang, Lisong Dai, Ting Wang, Fenglong Ma  
 *Submitted to NeurIPS'25*
 
 **GPR: Empowering Generation with Graph-Pretrained Retriever**  
-**Xiaochen Wang**, Zongyu Wu, Yuan Zhong, et al.  
+**Xiaochen Wang**, Zongyu Wu, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma  
 *Submitted to EMNLP'25*
 
