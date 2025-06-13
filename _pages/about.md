@@ -54,7 +54,7 @@ May 2022 – Aug. 2022
 
 **MedDiTPro: A Prompt-Guided Diffusion Transformer for Multimodal Longitudinal Medical Data Synthesis**  
 Yuan Zhong, **Xiaochen Wang**, Jiaqi Wang, Xiaokun Zhang, Fenglong Ma  
-*KDD'25 (Accepted, to appear)*
+*KDD'25*
 
 **Developing Multimodal Healthcare Foundation Model: From Data-driven to Knowledge-enhanced**  
 **Xiaochen Wang**  
