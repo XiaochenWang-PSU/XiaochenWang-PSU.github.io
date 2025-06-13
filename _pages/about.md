@@ -9,8 +9,12 @@ redirect_from:
 
 
 
-I am currently pursuing my Ph.D. in Informatics at the Pennsylvania State University, advised by Dr. Fenglong Ma.  
-Prior to that, I obtained my Master’s degree in Information Science from the University of North Carolina at Chapel Hill, where I was advised by Dr. Yue Wang, and my Bachelor’s degree in Automation from Central South University, China, under the supervision of Dr. Fan Guo.
+I am a fourth-year Ph.D. candidate in Informatics at the Pennsylvania State University, where I am fortunate to be advised by Dr. Fenglong Ma. My primary research lies at the intersection of multimodal learning, healthcare informatics, and knowledge-enhanced AI. I am particularly interested in developing robust, scalable methods that effectively integrate heterogeneous health data—including clinical text, medical images, time-series signals, and structured knowledge—for reliable and interpretable decision-making. My major research contributions have been recognized by top-tier conferences such as NeurIPS, KDD, ACL, EMNLP, NAACL, CIKM, and AMIA.
+
+Prior to joining Penn State, I received my Master’s degree in Information Science from the University of North Carolina at Chapel Hill under the guidance of Dr. Yue Wang, and my Bachelor’s degree in Automation from Central South University in China, where I was mentored by Dr. Fan Guo. I am deeply grateful to both advisors for introducing me to the field of data science and artificial intelligence, which laid the foundation for my ongoing research journey.
+
+
+
 
 ---
 
@@ -18,7 +22,7 @@ Prior to that, I obtained my Master’s degree in Information Science from the U
 
 My research interests include but are not limited to:
 
-- **Multimodal Self-supervised Learning**
+- **Multimodal Self-supervised Learning** [ACL'24](https://aclanthology.org/2024.acl-long.199.pdf) [EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf) [Preprint'25](https://arxiv.org/pdf/2506.00261?)
 - **Multimodal Healthcare Applications**
 - **Knowledge-enhanced Healthcare Applications**
 - **Natural Language Processing & Large Language Models**
