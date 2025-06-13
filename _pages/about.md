@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-# Xiaochen Wang
+
 
 I am currently pursuing my Ph.D. in Informatics at the Pennsylvania State University, advised by Dr. Fenglong Ma.  
 Prior to that, I obtained my Master’s degree in Information Science from the University of North Carolina at Chapel Hill, where I was advised by Dr. Yue Wang, and my Bachelor’s degree in Automation from Central South University, China, under the supervision of Dr. Fan Guo.
 
 ---
 
-## Research Interests
+# Research Interests
 
 My research interests include but are not limited to:
 
@@ -26,7 +26,7 @@ My research interests include but are not limited to:
 
 ---
 
-## Experience
+# Experience
 
 **Machine Learning Research Intern**, Livestreaming Recommendation Team, TikTok  
 *Mentor: Mr. Song Wang*  
@@ -46,9 +46,10 @@ May 2022 – Aug. 2022
 
 
 ---
-## Selected Publications
+# Selected Publications
 
-### 📄 Peer-reviewed Papers
+
+## 📄 Peer-reviewed Papers
 
 
 
@@ -103,7 +104,7 @@ Jingwen Hou\*, **Xiaochen Wang\***, Jean-Jacques Dubois, R. Byron Rice, Amanda H
 
 ---
 
-### 📝 Preprints
+## 📝 Preprints
 
 **MedMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**  
 **Xiaochen Wang**, Yuan Zhong, Lingwei Zhang, Lisong Dai, Ting Wang, Fenglong Ma  
