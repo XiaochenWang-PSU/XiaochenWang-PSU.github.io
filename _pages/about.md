@@ -22,11 +22,11 @@ Prior to joining Penn State, I received my Master’s degree in Information Scie
 
 My research interests include but are not limited to:
 
-- **Multimodal Self-supervised Learning** [ACL'24](https://aclanthology.org/2024.acl-long.199.pdf) [EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf) [Preprint'25](https://arxiv.org/pdf/2506.00261?)
-- **Multimodal Healthcare Applications**
-- **Knowledge-enhanced Healthcare Applications**
-- **Natural Language Processing & Large Language Models**
-- **Information Retrieval**
+- **Multimodal Self-supervised Learning** \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\] \[[Preprint'25](https://arxiv.org/pdf/2506.00261?)\]
+- **Multimodal Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671836?casa_token=LfBCK1wlqL4AAAAA:RsePsT3N16YOUuBM4MvtBS0s_stY8YoRSmEtM_4DyrooaMCIELtWlbia6BiRUOKSbVu8BdXBbgPugw)\] \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\]\[[Preprint'25](https://arxiv.org/pdf/2505.17214)\]
+- **Knowledge-enhanced Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\]\[[COLING'24](https://arxiv.org/pdf/2402.15700)\] \[[Preprint'25](https://arxiv.org/pdf/2505.17214)\]
+- **Natural Language Processing & Large Language Models** \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\] \[[COLING'24](https://arxiv.org/pdf/2402.15700)\]\[[NAACL'22](https://aclanthology.org/2022.naacl-main.156.pdf)\] \[[Preprint'25](https://arxiv.org/pdf/2506.00261?)\]
+- **Information Retrieval** \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\]\[[CIKM'22](https://ils.unc.edu/~wangyue/pub/CIKM2022-Hou.pdf)\]\[[Preprint'25](https://arxiv.org/pdf/2506.00261?)\]
 
 ---
 
