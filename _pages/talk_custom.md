@@ -1,5 +1,5 @@
 ---
-permalink: /talks_custom/
+permalink: /talks_presentations/
 title: "Talks"
 author_profile: true
 redirect_from: 
