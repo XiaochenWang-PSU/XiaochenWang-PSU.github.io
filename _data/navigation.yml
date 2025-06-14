@@ -9,7 +9,7 @@ main:
   #   url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talk_custom/    
 
   - title: "Teaching"
     url: /teaching/    
