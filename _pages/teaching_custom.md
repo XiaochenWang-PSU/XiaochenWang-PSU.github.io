@@ -7,7 +7,7 @@ redirect_from:
   - "/teaching.html"
 ---
 
-## Teaching
+
 
 ### University Course Instruction
 
