@@ -13,6 +13,9 @@ main:
 
   - title: "Teaching"
     url: /teaching_exp/    
+
+  - title: "Service"
+    url: /service/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
