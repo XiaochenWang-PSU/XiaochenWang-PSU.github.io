@@ -1,4 +1,4 @@
-{% if site.analytics.provider and page.analytics != false %}
+<!-- {% if site.analytics.provider and page.analytics != false %}
 
 {% case site.analytics.provider %}
 {% when "google" %}
@@ -11,4 +11,15 @@
   {% include /analytics-providers/custom.html %}
 {% endcase %}
 
-{% endif %}
+{% endif %} -->
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sqmMuUuGgPN9z0_4QEEjU_guvmpEGw9fGOBoMpuyvYk"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  <!-- end custom analytics snippet -->
+  gtag('config', YOUR_TAG');
+</script>
