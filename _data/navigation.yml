@@ -17,7 +17,7 @@ main:
   - title: "Service"
     url: /service/    
 
-    - title: "Misc"
+  - title: "Misc"
     url: /misc/  
     
   # - title: "Portfolio"
