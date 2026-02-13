@@ -61,7 +61,7 @@ May 2022 – Aug. 2022
 ## 📄 Peer-reviewed Papers
 
 
-**GPR: Empowering Generation with Graph-Pretrained Retriever.**
+**GPR: Empowering Generation with Graph-Pretrained Retriever**
 **Xiaochen Wang**, Zongyu Wu, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma
 *TheWebConf'26*
 
