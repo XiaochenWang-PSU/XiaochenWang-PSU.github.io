@@ -62,7 +62,7 @@ May 2022 – Aug. 2022
 
 
 **GPR: Empowering Generation with Graph-Pretrained Retriever**  
-**Xiaochen Wang**, Zongyu Wu, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma
+**Xiaochen Wang**, Zongyu Wu, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma  
 *TheWebConf'26*
 
 **MedDiTPro: A Prompt-Guided Diffusion Transformer for Multimodal Longitudinal Medical Data Synthesis**  
