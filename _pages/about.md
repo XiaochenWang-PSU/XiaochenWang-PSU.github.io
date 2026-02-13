@@ -32,15 +32,20 @@ My research interests include but are not limited to:
 
 # Experience
 
-**Machine Learning Research Intern**, Livestreaming Recommendation Team, TikTok  
+
+**Generative AI Scientist Intern**, R\DS Department, IQVIA  
+*Mentor: Dr. Cheng Qian*  
+Aug. 2025  – Dec. 2026  
+
+**Machine Learning Engineer Intern**, Livestreaming Recommendation Team, TikTok  
 *Mentor: Mr. Song Wang*  
 May 2025 – Aug. 2025  
 
-**Machine Learning Research Intern**, Search ML Team, Instacart  
+**Machine Learning Scientist Intern**, Search ML Team, Instacart  
 *Mentor: Dr. Taesik Na*  
 May 2023 – Aug. 2023  
 
-**Research Specialist**, Renaissance Computing Institute, University of North Carolina at Chapel Hill  
+**Research Scientist**, Renaissance Computing Institute, University of North Carolina at Chapel Hill  
 *Mentor: Dr. Yue Wang*  
 May 2022 – Aug. 2022
 
@@ -56,6 +61,9 @@ May 2022 – Aug. 2022
 ## 📄 Peer-reviewed Papers
 
 
+**GPR: Empowering Generation with Graph-Pretrained Retriever.**
+**Xiaochen Wang**, Zongyu Wu, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma
+*TheWebConf'26*
 
 **MedDiTPro: A Prompt-Guided Diffusion Transformer for Multimodal Longitudinal Medical Data Synthesis**  
 Yuan Zhong, **Xiaochen Wang**, Jiaqi Wang, Xiaokun Zhang, Fenglong Ma  
@@ -108,13 +116,4 @@ Jingwen Hou\*, **Xiaochen Wang\***, Jean-Jacques Dubois, R. Byron Rice, Amanda H
 
 ---
 
-## 📝 Preprints
-
-**MedMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**  
-**Xiaochen Wang**, Yuan Zhong, Lingwei Zhang, Lisong Dai, Ting Wang, Fenglong Ma  
-*Submitted to NeurIPS'25*
-
-**GPR: Empowering Generation with Graph-Pretrained Retriever**  
-**Xiaochen Wang**, Zongyu Wu, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma  
-*Submitted to EMNLP'25*
 
