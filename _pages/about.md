@@ -33,7 +33,7 @@ My research interests include but are not limited to:
 # Experience
 
 
-**Generative AI Scientist Intern**, R\DS Department, IQVIA  
+**Generative AI Scientist Intern**, R&DS Department, IQVIA  
 *Mentor: Dr. Cheng Qian*  
 Aug. 2025  – Dec. 2026  
 
