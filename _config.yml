@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Xiaochen Wang"
 title_separator          : "-"
 name                     : &name "Xiaochen Wang"
-description              : &description "personal description"
+description              : &description "Xiaochen Wang - PhD Candidate in Informatics at Penn State. Research in multimodal learning, healthcare AI, and knowledge-enhanced systems."
 url                      : "https://xiaochenwang-psu.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/XiaochenWang-PSU/XiaochenWang-PSU.github.io"
@@ -123,7 +123,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :google5baf9c3a84c9f865.html
+google_site_verification : "google5baf9c3a84c9f865"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :

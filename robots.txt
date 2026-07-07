@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiaochenwang-psu.github.io/sitemap.xml
