@@ -10,9 +10,11 @@ redirect_from:
 
 
 
-I am a fourth-year Ph.D. candidate in Informatics at the Pennsylvania State University, where I am fortunate to be advised by Dr. Fenglong Ma. My primary research lies at the intersection of multimodal learning, healthcare informatics, and knowledge-enhanced AI. I am particularly interested in developing robust, scalable methods that effectively integrate heterogeneous health data—including clinical text, medical images, time-series signals, and structured knowledge—for reliable and interpretable decision-making. My major research contributions have been recognized by top-tier conferences such as NeurIPS, KDD, ACL, EMNLP, NAACL, CIKM, and AMIA.
+I am a final-year Ph.D. candidate in Informatics at the Pennsylvania State University, where I am fortunate to be advised by Dr. Fenglong Ma. My primary research lies at the intersection of multimodal learning, healthcare informatics, and knowledge-enhanced AI. I am particularly interested in developing robust, scalable methods that effectively integrate heterogeneous health data—including clinical text, medical images, time-series signals, and structured knowledge—for reliable and interpretable decision-making. My major research contributions have been recognized by top-tier conferences such as KDD, WWW, NeurIPS, ACL, EMNLP, NAACL, CIKM, and AMIA.
 
 Prior to joining Penn State, I received my Master’s degree in Information Science from the University of North Carolina at Chapel Hill under the guidance of Dr. Yue Wang, and my Bachelor’s degree in Automation from Central South University in China, where I was mentored by Dr. Fan Guo. I am deeply grateful to both advisors for introducing me to the field of data science and artificial intelligence, which laid the foundation for my ongoing research journey.
+
+<span style="color:red">**I am on the 2025–2026 academic and industrial job market. Feel free to reach out if you are interested in my work!**</span>
 
 
 
@@ -33,21 +35,19 @@ My research interests include but are not limited to:
 
 # Experience
 
+**Applied Scientist Intern**, Amazon  
+Jun. 2026 – Sep. 2026  
 
-**Generative AI Scientist Intern**, R&DS Department, IQVIA  
-*Mentor: Dr. Cheng Qian*  
-Aug. 2025  – Dec. 2026  
+**Generative AI Scientist Intern**, IQVIA  
+Aug. 2025 – May 2026  
 
-**Machine Learning Engineer Intern**, Livestreaming Recommendation Team, TikTok  
-*Mentor: Mr. Song Wang*  
+**Machine Learning Engineer Intern**, TikTok  
 May 2025 – Aug. 2025  
 
-**Machine Learning Scientist Intern**, Search ML Team, Instacart  
-*Mentor: Dr. Taesik Na*  
+**Machine Learning Scientist Intern**, Instacart  
 May 2023 – Aug. 2023  
 
 **Research Scientist**, Renaissance Computing Institute, University of North Carolina at Chapel Hill  
-*Mentor: Dr. Yue Wang*  
 May 2022 – Aug. 2022
 
 
@@ -59,12 +59,15 @@ May 2022 – Aug. 2022
 # Selected Publications
 
 
-## 📄 Peer-reviewed Papers
+## Peer-reviewed Papers
 
+**MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph Augmented Generation**  
+**Xiaochen Wang**, Bao Hoang, Han Liu, Ting Wang, Fenglong Ma  
+*KDD'26*
 
 **GPR: Empowering Generation with Graph-Pretrained Retriever**  
 **Xiaochen Wang**, Zongyu Wu, Yuan Zhong, Xiang Zhang, Suhang Wang, Fenglong Ma  
-*TheWebConf'26*
+*WWW'26*
 
 **MedDiTPro: A Prompt-Guided Diffusion Transformer for Multimodal Longitudinal Medical Data Synthesis**  
 Yuan Zhong, **Xiaochen Wang**, Jiaqi Wang, Xiaokun Zhang, Fenglong Ma  
@@ -93,7 +96,6 @@ Jiaqi Wang\*, **Xiaochen Wang\***, Lingjuan Lyu, Jinghui Chen, Fenglong Ma
 **Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models**  
 Yuan Zhong, **Xiaochen Wang**, Jiaqi Wang, Xiaokun Zhang, et al.  
 *KDD'24*
-
 
 **Hierarchical Pretraining on Multimodal Electronic Health Records**  
 **Xiaochen Wang**, Junyu Luo, Jiaqi Wang, Ziyi Yin, Suhan Cui, Yuan Zhong, et al.  

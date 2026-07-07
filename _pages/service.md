@@ -10,21 +10,17 @@ redirect_from:
 
 ### Conference Program Committee Member | Reviewer
 
-- CIKM 2023
-- AAAI 2024, AAAI 2025
-- EMNLP 2024
-- AMIA 2024
-- NAACL 2024
-- AISTATS 2025
-- PAKDD 2025
-- KDD 2025
-- IJCAI 2025
+- 2026: ACL, KDD, COLM, ICML, EMNLP
+- 2025: AAAI, AISTATS, ICLR, WWW, PAKDD, ACL, KDD, IJCAI, EMNLP, IEEE BigData
+- 2024: AAAI, AISTATS, EMNLP, AMIA, NAACL
+- 2023: CIKM, AAAI
 
 ### Journal Reviewer
 
 - *Progress in Artificial Intelligence*
 - *Heliyon*
 - *Human-centric Computing and Information Sciences*
+- *Artificial Intelligence In Medicine*
 
 ### Volunteer
 
