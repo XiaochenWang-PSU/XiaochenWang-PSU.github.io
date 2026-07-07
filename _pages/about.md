@@ -25,11 +25,11 @@ Prior to joining Penn State, I received my Master’s degree in Information Scie
 
 My research interests include but are not limited to:
 
-- **Multimodal Self-supervised Learning** \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\] \[[Preprint'25](https://arxiv.org/pdf/2506.00261?)\]
-- **Multimodal Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671836?casa_token=LfBCK1wlqL4AAAAA:RsePsT3N16YOUuBM4MvtBS0s_stY8YoRSmEtM_4DyrooaMCIELtWlbia6BiRUOKSbVu8BdXBbgPugw)\] \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\]\[[Preprint'25](https://arxiv.org/pdf/2505.17214)\]
-- **Knowledge-enhanced Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\]\[[COLING'24](https://arxiv.org/pdf/2402.15700)\] \[[AMIA'22](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148274/)\] \[[Preprint'25](https://arxiv.org/pdf/2505.17214)\]
-- **Natural Language Processing & Large Language Models** \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\] \[[COLING'24](https://arxiv.org/pdf/2402.15700)\]\[[NAACL'22](https://aclanthology.org/2022.naacl-main.156.pdf)\] \[[Preprint'25](https://arxiv.org/pdf/2506.00261?)\]
-- **Information Retrieval** \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\]\[[CIKM'22](https://ils.unc.edu/~wangyue/pub/CIKM2022-Hou.pdf)\]\[[Preprint'25](https://arxiv.org/pdf/2506.00261?)\]
+- **Multimodal Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[KDD'25](https://dl.acm.org/doi/pdf/10.1145/3637528.3671836)\] \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\] \[[Submission](https://arxiv.org/pdf/2505.17214)\]
+- **Multimodal Self-supervised Learning** \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\] \[[WWW'26](https://arxiv.org/pdf/2506.00261)\]
+- **Knowledge-enhanced Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[COLING'24](https://arxiv.org/pdf/2402.15700)\] \[[AMIA'22](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148274/)\] \[[Submission](https://arxiv.org/pdf/2505.17214)\]
+- **Natural Language Processing & Large Language Models** \[[KDD'26]()\] \[[WWW'26](https://arxiv.org/pdf/2506.00261)\] \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\] \[[COLING'24](https://arxiv.org/pdf/2402.15700)\] \[[NAACL'22](https://aclanthology.org/2022.naacl-main.156.pdf)\]
+- **Information Retrieval** \[[KDD'26]()\] \[[WWW'26](https://arxiv.org/pdf/2506.00261)\] \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\] \[[SIGIR'24](https://dl.acm.org/doi/pdf/10.1145/3626772.3657751)\] \[[CIKM'22](https://ils.unc.edu/~wangyue/pub/CIKM2022-Hou.pdf)\]
 
 ---
 
@@ -116,6 +116,20 @@ Junyu Luo, Cheng Qian, **Xiaochen Wang**, Lucas Glass, Fenglong Ma
 **Extreme Systematic Reviews: A Large Literature Screening Dataset**  
 Jingwen Hou\*, **Xiaochen Wang\***, Jean-Jacques Dubois, R. Byron Rice, Amanda Haddock, Yue Wang  
 *CIKM'22*
+
+## Preprints & Submissions
+
+**MedMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**  
+**Xiaochen Wang**, Yuan Zhong, Lingwei Zhang, Lisong Dai, Ting Wang, Fenglong Ma  
+*Submitted to MM'26*
+
+**KAMR: Grounding Generation via Knowledge-Aligned Multi-hop Retrieval**  
+**Xiaochen Wang**, Yuan Zhong, Haoyu Wang, Ting Wang, Fenglong Ma  
+*Submitted to COLM'26*
+
+**Synthesizing Longitudinal Multimodal Clinical Data via Staged Adaptation of Any-to-Any Models**  
+Yuan Zhong, Ziyi Yin, **Xiaochen Wang**, Yuning Xie, Jing Gao, Fenglong Ma  
+*Submitted to NeurIPS'26*
 
 ---
 
