@@ -133,4 +133,3 @@ Yuan Zhong, Ziyi Yin, **Xiaochen Wang**, Yuning Xie, Jing Gao, Fenglong Ma
 
 ---
 
-<a href="https://mapmyvisitors.com/web/1c6cf" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=YmHSKfv-6PsNAzTStDBsBrMRkQX45rDPKos-PldUTAo&cl=ffffff" /></a>
