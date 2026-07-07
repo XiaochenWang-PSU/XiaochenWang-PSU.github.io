@@ -18,6 +18,6 @@ redirect_from:
 
 ### Conference Tutorials
 
-- **[Multimodal Artificial Intelligence in Healthcare](https://aaai.org/conference/aaai/aaai-25/aaai-25-tutorial-and-lab-forum/)**  
+- **[Multimodal Artificial Intelligence in Healthcare](https://sites.google.com/view/aaai-multimodal-ai-health/home)**  
   *Tutorial & Lab Forum, AAAI 2025*  
   Co-organized with Jiaqi Wang, Yuan Zhong, Ziyi Yin, Aofei Chang, Cao Xiao, and Fenglong Ma
