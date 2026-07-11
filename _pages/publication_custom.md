@@ -20,6 +20,10 @@ redirect_from:
 **Xiaochen Wang**, Yuan Zhong, Haoyu Wang, Ting Wang, Fenglong Ma  
 *COLM'26*
 
+**MedMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**  
+**Xiaochen Wang**, Yuan Zhong, Lingwei Zhang, Lisong Dai, Ting Wang, Fenglong Ma  
+*MM'26*
+
 **MedDiTPro: A Prompt-Guided Diffusion Transformer for Multimodal Longitudinal Medical Data Synthesis**  
 Yuan Zhong, **Xiaochen Wang**, Jiaqi Wang, Xiaokun Zhang, Fenglong Ma  
 *KDD'25*
@@ -69,10 +73,6 @@ Jingwen Hou\*, **Xiaochen Wang\***, Jean-Jacques Dubois, R. Byron Rice, Amanda H
 *CIKM'22*
 
 ## Preprints & Submissions
-
-**MedMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**  
-**Xiaochen Wang**, Yuan Zhong, Lingwei Zhang, Lisong Dai, Ting Wang, Fenglong Ma  
-*Submitted to MM'26*
 
 **Synthesizing Longitudinal Multimodal Clinical Data via Staged Adaptation of Any-to-Any Models**  
 Yuan Zhong, Ziyi Yin, **Xiaochen Wang**, Yuning Xie, Jing Gao, Fenglong Ma  

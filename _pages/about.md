@@ -14,10 +14,17 @@ I am a final-year Ph.D. candidate in Informatics at the Pennsylvania State Unive
 
 Prior to joining Penn State, I received my Master’s degree in Information Science from the University of North Carolina at Chapel Hill under the guidance of Dr. Yue Wang, and my Bachelor’s degree in Automation from Central South University in China, where I was mentored by Dr. Fan Guo. I am deeply grateful to both advisors for introducing me to the field of data science and artificial intelligence, which laid the foundation for my ongoing research journey.
 
-<span style="color:red">**I am on the 2025–2026 academic and industrial job market. Feel free to reach out if you are interested in my work!**</span>
+<span style="color:red">**I am on the 2026–2027 academic and industrial job market. Feel free to reach out if you are interested in my work!**</span>
 
+---
 
+# News
 
+- One paper accepted by ACM Multimedia 2026 (MM'26)!
+- One paper accepted by the Conference on Language Modeling 2026 (COLM'26)!
+- Started my internship at Amazon as an Applied Scientist!
+- One paper accepted by the ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2026 (KDD'26)!
+- One paper accepted by the ACM Web Conference 2026 (WWW'26)!
 
 ---
 
@@ -25,9 +32,9 @@ Prior to joining Penn State, I received my Master’s degree in Information Scie
 
 My research interests include but are not limited to:
 
-- **Multimodal Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[KDD'25](https://dl.acm.org/doi/pdf/10.1145/3637528.3671836)\] \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\] \[[Submission](https://arxiv.org/pdf/2505.17214)\]
+- **Multimodal Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[KDD'25](https://dl.acm.org/doi/pdf/10.1145/3637528.3671836)\] \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\] \[[MM'26](https://arxiv.org/pdf/2505.17214)\]
 - **Multimodal Self-supervised Learning** \[[ACL'24](https://aclanthology.org/2024.acl-long.199.pdf)\] \[[EMNLP'23](https://aclanthology.org/2023.emnlp-main.171.pdf)\] \[[WWW'26](https://arxiv.org/pdf/2506.00261)\]
-- **Knowledge-enhanced Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[COLING'24](https://arxiv.org/pdf/2402.15700)\] \[[AMIA'22](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148274/)\] \[[Submission](https://arxiv.org/pdf/2505.17214)\]
+- **Knowledge-enhanced Healthcare Applications** \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[COLING'24](https://arxiv.org/pdf/2402.15700)\] \[[AMIA'22](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148274/)\] \[[MM'26](https://arxiv.org/pdf/2505.17214)\]
 - **Natural Language Processing & Large Language Models** \[[KDD'26](https://arxiv.org/pdf/2606.26458)\] \[COLM'26\] \[[WWW'26](https://arxiv.org/pdf/2506.00261)\] \[[EMNLP'24](https://arxiv.org/pdf/2408.10276)\] \[[NeurIPS'24](https://arxiv.org/pdf/2408.09227)\] \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\] \[[COLING'24](https://arxiv.org/pdf/2402.15700)\] \[[NAACL'22](https://aclanthology.org/2022.naacl-main.156.pdf)\]
 - **Information Retrieval** \[[KDD'26](https://arxiv.org/pdf/2606.26458)\] \[COLM'26\] \[[WWW'26](https://arxiv.org/pdf/2506.00261)\] \[[KDD'24](https://dl.acm.org/doi/pdf/10.1145/3637528.3671630)\] \[[SIGIR'24](https://dl.acm.org/doi/pdf/10.1145/3626772.3657751)\] \[[CIKM'22](https://ils.unc.edu/~wangyue/pub/CIKM2022-Hou.pdf)\]
 
