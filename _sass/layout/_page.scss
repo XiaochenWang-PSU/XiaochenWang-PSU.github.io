@@ -35,7 +35,15 @@
 }
 
 /* Opt-in full-width variant, for pages holding an embedded document.
-   Drops the right gutter that .page reserves for the sidebar. */
+   Drops the right gutter that .page reserves for the sidebar, and lets the
+   container outgrow the $x-large cap so a document can render near print
+   size. Applied to both #main and .page from page.classes. */
+#main.wide {
+  @include breakpoint($large) {
+    max-width: 1600px;
+  }
+}
+
 .page.wide {
   @include breakpoint($large) {
     width: 100%;
@@ -54,7 +62,7 @@
   @include breakpoint($large) {
     display: block;
     width: 100%;
-    max-width: 900px;
+    max-width: 1400px;
     margin: 1.5em auto 0;
     aspect-ratio: #{8.5} / #{11}; // interpolated so Sass emits the ratio, not a division
     border: 1px solid var(--global-border-color);

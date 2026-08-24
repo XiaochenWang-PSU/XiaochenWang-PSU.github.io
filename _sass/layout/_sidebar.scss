@@ -247,11 +247,13 @@
     white-space: nowrap;
   }
 
-  /* The obfuscated address is far longer than the labels beside it, so let
-     it wrap rather than overflow the sidebar. */
+  /* Plain text rather than a link, so it needs the box spacing the sibling
+     <a> elements get. Deliberately sets no font-size or font-family: those
+     come from `.sidebar p, .sidebar li` and must match the other entries. */
   li.author__email {
     white-space: normal;
-    font-size: $type-size-5;
+    margin-bottom: 5px;
+    padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
   }
