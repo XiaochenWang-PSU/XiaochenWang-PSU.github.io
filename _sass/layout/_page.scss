@@ -34,6 +34,38 @@
   }
 }
 
+/* Opt-in full-width variant, for pages holding an embedded document.
+   Drops the right gutter that .page reserves for the sidebar. */
+.page.wide {
+  @include breakpoint($large) {
+    width: 100%;
+    float: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* Embedded PDF, held at US Letter proportions so the viewer never has to
+   scale a page down to fit. Hidden on narrow screens, where in-page PDF
+   viewers are unreliable and the download link is the better path. */
+.pdf-embed {
+  display: none;
+
+  @include breakpoint($large) {
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    margin: 1.5em auto 0;
+    aspect-ratio: #{8.5} / #{11}; // interpolated so Sass emits the ratio, not a division
+    border: 1px solid var(--global-border-color);
+
+    object {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;

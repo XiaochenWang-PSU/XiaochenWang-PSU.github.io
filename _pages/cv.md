@@ -2,7 +2,8 @@
 permalink: /cv/
 title: "CV"
 description: "Curriculum vitae of Xiaochen Wang, PhD candidate in Informatics at Penn State, working on multimodal learning, healthcare AI, and knowledge-grounded systems."
-author_profile: true
+author_profile: false
+classes: wide
 redirect_from:
   - "/resume"
   - "/cv.html"
@@ -10,8 +11,10 @@ redirect_from:
 
 {% include base_path %}
 
-[Download as PDF]({{ base_path }}/files/Xiaochen_Wang_CV.pdf)
+<a href="{{ base_path }}/files/Xiaochen_Wang_CV.pdf" class="btn">Download as PDF</a>
 
-<object data="{{ base_path }}/files/Xiaochen_Wang_CV.pdf" type="application/pdf" width="100%" height="900px">
-  <p>Your browser cannot display embedded PDFs. <a href="{{ base_path }}/files/Xiaochen_Wang_CV.pdf">Download the PDF</a> instead.</p>
-</object>
+<div class="pdf-embed">
+  <object data="{{ base_path }}/files/Xiaochen_Wang_CV.pdf" type="application/pdf">
+    <p>Your browser cannot display embedded PDFs. <a href="{{ base_path }}/files/Xiaochen_Wang_CV.pdf">Download the PDF</a> instead.</p>
+  </object>
+</div>
