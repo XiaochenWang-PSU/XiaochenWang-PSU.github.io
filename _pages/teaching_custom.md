@@ -1,6 +1,7 @@
 ---
 permalink: /teaching_exp/
 title: "Teaching"
+description: "Teaching experience of Xiaochen Wang, PhD candidate in Informatics at Penn State."
 author_profile: true
 redirect_from: 
   - "/teaching/"

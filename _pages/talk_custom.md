@@ -1,6 +1,7 @@
 ---
 permalink: /talks_presentations/
 title: "Talks"
+description: "Talks and conference presentations by Xiaochen Wang, PhD candidate in Informatics at Penn State."
 author_profile: true
 redirect_from: 
   - "/talks/"

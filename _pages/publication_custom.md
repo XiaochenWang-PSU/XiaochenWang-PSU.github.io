@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Selected Publications"
+description: "Selected publications by Xiaochen Wang at KDD, WWW, NeurIPS, ACL, EMNLP, NAACL, CIKM, and AMIA on multimodal learning and healthcare AI."
 author_profile: true
 redirect_from: 
   - "/publications.html"

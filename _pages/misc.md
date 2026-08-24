@@ -1,6 +1,7 @@
 ---
 permalink: /misc/
 title: "Misc."
+description: "Miscellaneous notes and personal interests of Xiaochen Wang, PhD candidate in Informatics at Penn State."
 author_profile: true
 redirect_from: 
   - "/misc"

@@ -1,6 +1,7 @@
 ---
 permalink: /service/
 title: "Service"
+description: "Academic service by Xiaochen Wang, including conference and journal reviewing in machine learning and health informatics."
 author_profile: true
 redirect_from: 
   - "/service.html"
