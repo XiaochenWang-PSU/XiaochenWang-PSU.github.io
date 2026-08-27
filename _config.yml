@@ -151,6 +151,14 @@ social:
     - "https://scholar.google.com/citations?user=PXpHePgAAAAJ&hl=en"
     - "https://orcid.org/0009-0001-7699-3016"
 
+# Institution the Person schema is affiliated with. This ties the person to
+# the university as a known entity, and carries the "PSU" abbreviation that
+# the prose spells out in full.
+affiliation:
+  name                   : "The Pennsylvania State University"
+  alternateName          : "PSU"
+  url                    : "https://www.psu.edu/"
+
 
 # Analytics
 analytics:

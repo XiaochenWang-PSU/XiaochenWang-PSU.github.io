@@ -6,7 +6,9 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.title %}
+{% if page.seo_title %}
+  {% assign seo_title = page.seo_title %}
+{% elsif page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
@@ -113,7 +115,14 @@
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "sameAs" : {{ site.social.links | jsonify }}{% if site.author.bio %},
+      "jobTitle" : {{ site.author.bio | jsonify }}{% endif %}{% if site.affiliation %},
+      "affiliation" : {
+        "@type" : "CollegeOrUniversity",
+        "name" : {{ site.affiliation.name | jsonify }},
+        "alternateName" : {{ site.affiliation.alternateName | jsonify }},
+        "url" : {{ site.affiliation.url | jsonify }}
+      }{% endif %}
     }
   </script>
 {% endif %}

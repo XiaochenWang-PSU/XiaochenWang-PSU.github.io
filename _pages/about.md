@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome!"
+seo_title: "Xiaochen Wang - PhD Candidate in Informatics, Penn State"
 description: "Xiaochen Wang - PhD Candidate in Informatics at Penn State. Research in multimodal learning, healthcare AI, and knowledge-enhanced systems."
 author_profile: true
 redirect_from: 
