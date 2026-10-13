@@ -15,7 +15,7 @@ I am a final-year Ph.D. candidate in Informatics at the Pennsylvania State Unive
 
 Prior to joining Penn State, I received my Master’s degree in Information Science from the University of North Carolina at Chapel Hill under the guidance of Dr. Yue Wang, and my Bachelor’s degree in Automation from Central South University in China, where I was mentored by Dr. Fan Guo. I am deeply grateful to both advisors for introducing me to the field of data science and artificial intelligence, which laid the foundation for my ongoing research journey.
 
-<span style="color:red">**I am on the 2026–2027 academic and industrial job market. Feel free to reach out if you are interested in my work!**</span>
+<span style="color:red">**I am on the 2026–2027 job market. Feel free to reach out if you are interested in my work!**</span>
 
 ---
 
