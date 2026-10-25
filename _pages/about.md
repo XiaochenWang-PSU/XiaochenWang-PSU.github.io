@@ -21,6 +21,8 @@ Prior to joining Penn State, I received my Master’s degree in Information Scie
 
 # News
 
+- One paper accepted by the IEEE International Conference on Big Data 2026 (BigData'26)!
+- Awarded the IST Travel Grant!
 - One paper accepted by ACM Multimedia 2026 (MM'26)!
 - One paper accepted by the Conference on Language Modeling 2026 (COLM'26)!
 - Started my internship at Amazon as an Applied Scientist!
